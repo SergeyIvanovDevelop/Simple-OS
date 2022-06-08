@@ -20,7 +20,7 @@ Main implemented functionality:
 
 ## :computer: Getting Started  ##
 
-**Step 1**
+**Clone repository**
 
 1. Go to home directory and clone repository from github: `cd ~ && git clone https://SergeyIvanovDevelop@github.com/SergeyIvanovDevelop/Simple-OS`
 
